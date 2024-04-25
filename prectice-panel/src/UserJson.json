@@ -1,0 +1,50 @@
+[
+    {
+        "name": "John Doe",
+        "id": 1,
+        "mobileNo": "1234567890",
+        "gender": "Male"
+    },
+    {
+        "name": "Jane Smith",
+        "id": 2,
+        "mobileNo": "9876543210",
+        "gender": "Female"
+    },
+    {
+        "name": "Emily Brown",
+        "id": 3,
+        "mobileNo": "5555555555",
+        "gender": "Female"
+    },
+    {
+        "name": "Michael Johnson",
+        "id": 4,
+        "mobileNo": "6666666666",
+        "gender": "Male"
+    },
+    {
+        "name": "John Doe",
+        "id": 5,
+        "mobileNo": "1234567890",
+        "gender": "Male"
+    },
+    {
+        "name": "Jane Smith",
+        "id": 6,
+        "mobileNo": "9876543210",
+        "gender": "Female"
+    },
+    {
+        "name": "Emily Brown",
+        "id": 7,
+        "mobileNo": "5555555555",
+        "gender": "Female"
+    },
+    {
+        "name": "Michael Johnson",
+        "id": 8,
+        "mobileNo": "6666666666",
+        "gender": "Male"
+    }
+]
